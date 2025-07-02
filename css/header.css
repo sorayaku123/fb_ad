@@ -1,0 +1,46 @@
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(245, 246, 246);
+    align-items: center;
+    padding: 1rem 1.2rem;
+}
+
+header a img{
+    width: 95px;
+}
+
+.right{
+    display: flex;
+    width: 120px;
+    justify-content: space-around;
+    align-items: start;
+}
+
+.right img{
+    width: 40px;
+    border-radius: 20px;
+}
+
+.header2{
+    position: relative;
+    padding: 1.2rem 1.2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header2 img{
+    width: 24px;
+}
+
+.header2 p{
+    font-weight: 600;
+    color: rgb(28, 43, 51)
+}
+
+#sidebar{
+    margin-top: 10px;
+}
