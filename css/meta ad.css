@@ -328,13 +328,15 @@ h3{
 .start_now{
     color: white;
 }
+.layout_mini{
+    padding-left: 35px;
+}
 
 .mini_header{
     display: flex;
     align-items: center;
     margin-bottom: 2.5rem;
     justify-content: space-between;
-    width: 80%;
     padding-top: 1.2rem;
 }
 .mini_header img{
